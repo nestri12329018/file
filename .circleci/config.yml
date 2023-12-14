@@ -1,4 +1,4 @@
-# Use the latest 2.1 version of CircleCI pipeline proces
+# Use the latest 2.1 version of CircleCI pipeline proce
 version: 2.1
 
 jobs:
